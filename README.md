@@ -15,7 +15,7 @@ Além da automação e do suporte, também atuo com desenvolvimento web, criando
 HTML
 CSS
 JavaScript
-🛠️ Projetos Recentes
+🛠️ Projetos Recentes <br>
 🖥️ Criação de um portfólio interativo, utilizando HTML, CSS, e JavaScript, hospedado na Vercel.
 📱 Desenvolvimento de sistemas de configuração utilizando Flask e templates personalizados.
 🌐 Aplicações de IP fixo e configuração de redes, focando em interfaces amigáveis e funcionais.
